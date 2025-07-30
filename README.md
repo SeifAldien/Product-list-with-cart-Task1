@@ -14,6 +14,8 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
+
+
 - Website: [https://product-list-with-cart-seifaldien-ali.netlify.app/](https://product-list-with-cart-seifaldien-ali.netlify.app/)
 
 ![HomeSC](https://github.com/user-attachments/assets/30473460-f661-461c-b2a6-8f864745e3d7)
