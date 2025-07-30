@@ -12,5 +12,5 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-![Screenshot1](assests/images/HomeSC.png)
-![Screenshot1](assests/images/ConfirmationPage.png)
+![Screenshot1](assests/images/HomeSC.JPG)
+![Screenshot1](assests/images/ConfirmationPage.JPG)
