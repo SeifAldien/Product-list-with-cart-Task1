@@ -12,5 +12,6 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-![Screenshot1](assests/images/HomeSC.JPG)
-![Screenshot1](assests/images/ConfirmationPage.JPG)
+![HomeSC](https://github.com/user-attachments/assets/30473460-f661-461c-b2a6-8f864745e3d7)
+![ConfirmationPage](https://github.com/user-attachments/assets/58a9bbb5-cbdf-4b3f-a4ad-5889ae269809)
+
