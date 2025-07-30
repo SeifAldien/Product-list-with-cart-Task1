@@ -1,3 +1,5 @@
+![konecta dessert shop](https://github.com/user-attachments/assets/6dfe8613-5068-4873-9ea0-4cf4ccc32803)
+
 This is a solution to the [Product list with cart challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d).
 
 
